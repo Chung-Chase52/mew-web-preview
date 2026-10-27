@@ -1,0 +1,16 @@
+{
+    "name":"Song",
+    "resources":{
+        "json":[
+			"song/json/image.json"
+        ],
+        "pack":[
+        ],
+        "spine":[
+        ],
+        "files":[
+        ]
+    },
+    "info":{
+    }
+}

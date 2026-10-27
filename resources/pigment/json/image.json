@@ -1,0 +1,53 @@
+{
+    "resources":{
+		"files":[
+			"pigment/images/pigment_text.png"
+			
+			,"pigment/images/brush_1_normal.png"
+			,"pigment/images/brush_1_down.png"
+			,"pigment/images/brush_2_normal.png"
+			,"pigment/images/brush_2_down.png"
+			,"pigment/images/brush_3_normal.png"
+			,"pigment/images/brush_3_down.png"
+			,"pigment/images/brush_4_normal.png"
+			,"pigment/images/brush_4_down.png"
+
+			,"pigment/images/camera_click_1.png"
+			,"pigment/images/camera_click_2.png"
+			,"pigment/images/camera_click_3.png"
+			,"pigment/images/camera_normal.png"
+			,"pigment/images/tool_bg.png"
+			,"pigment/images/colored_p_e/black_check.png"
+			,"pigment/images/colored_p_e/black_normal.png"
+			,"pigment/images/colored_p_e/blue_check.png"
+			,"pigment/images/colored_p_e/blue_normal.png"
+			,"pigment/images/colored_p_e/eraser_check.png"
+			,"pigment/images/colored_p_e/eraser_normal.png"
+			,"pigment/images/colored_p_e/gray_check.png"
+			,"pigment/images/colored_p_e/gray_normal.png"
+			,"pigment/images/colored_p_e/green_check.png"
+			,"pigment/images/colored_p_e/green_normal.png"
+			,"pigment/images/colored_p_e/incarnadine_check.png"
+			,"pigment/images/colored_p_e/incarnadine_normal.png"
+			,"pigment/images/colored_p_e/navy_check.png"
+			,"pigment/images/colored_p_e/navy_normal.png"
+			,"pigment/images/colored_p_e/orange_check.png"
+			,"pigment/images/colored_p_e/orange_normal.png"
+			,"pigment/images/colored_p_e/pink_check.png"
+			,"pigment/images/colored_p_e/pink_normal.png"
+			,"pigment/images/colored_p_e/purple_check.png"
+			,"pigment/images/colored_p_e/purple_normal.png"
+			,"pigment/images/colored_p_e/red_check.png"
+			,"pigment/images/colored_p_e/red_normal.png"
+			,"pigment/images/colored_p_e/skybule_check.png"
+			,"pigment/images/colored_p_e/skybule_normal.png"
+			,"pigment/images/colored_p_e/white_check.png"
+			,"pigment/images/colored_p_e/white_normal.png"
+			,"pigment/images/colored_p_e/yellowish_green_check.png"
+			,"pigment/images/colored_p_e/yellowish_green_normal.png"
+			,"pigment/images/colored_p_e/yello_check.png"
+			,"pigment/images/colored_p_e/yello_normal.png"
+
+		]
+	}
+}

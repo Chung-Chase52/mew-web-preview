@@ -1,0 +1,10 @@
+{
+    "resources":{
+        "files":[
+            "main/images/gallery/bg.png",
+            "main/images/gallery/img_bg.png",
+            "main/images/gallery/no_img.png",
+            "main/images/gallery/popup.png"
+        ]
+    }
+}

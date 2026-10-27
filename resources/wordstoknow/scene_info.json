@@ -1,0 +1,31 @@
+{
+    "name":"WordsToKnow",
+    "resources":{
+        "json":[
+        ],
+        "pack":[
+        ],
+        "spine":[
+            "wordstoknow/spine/wordstoknow_particle.json"
+        ],
+        "files":[
+            "wordstoknow/images/wordstoknow_title.png",
+            "wordstoknow/images/wordstoknow_card_normal.png",
+            "wordstoknow/images/wordstoknow_card_complete_normal.png",
+            "wordstoknow/images/wordstoknow_card_current_down.png",
+            "wordstoknow/images/wordstoknow_card_current_normal.png",
+            "wordstoknow/images/wordstoknow_card_down.png",
+            "wordstoknow/images/wordstoknow_btn_check_down.png",
+            "wordstoknow/images/wordstoknow_btn_check_normal.png",
+            "wordstoknow/images/wordstoknow_card_arrow.png",
+            "wordstoknow/images/wordstoknow_card_complete_down.png",
+            "wordstoknow/images/wordstoknow_bg.png",
+            "wordstoknow/images/wordstoknow_book.png",
+            "wordstoknow/sounds/snd_bgm.mp3",
+            "wordstoknow/sounds/snd_ready.mp3",
+            "wordstoknow/sounds/snd_card.mp3"
+        ]
+    },
+    "info":{
+    }
+}

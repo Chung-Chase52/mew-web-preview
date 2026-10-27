@@ -1,0 +1,65 @@
+{
+    "resources":{
+        "files": [
+            "b03/listeninggame/sounds/snd_sentence_01.mp3",
+            "b03/listeninggame/sounds/snd_sentence_02.mp3",
+            "b03/listeninggame/sounds/snd_sentence_03.mp3",
+            "b03/listeninggame/sounds/snd_sentence_04.mp3",
+            "b03/listeninggame/sounds/snd_sentence_05.mp3"
+        ]
+    },
+    "info":{
+        "questions":[
+            {
+                "sentence":"_, dickory, dock.",
+                "sound":"b03/listeninggame/sounds/snd_sentence_01.mp3",
+                "answer":"Hickory",
+                "examples":[
+                    "Hickory",
+                    "Dickory",
+                    "Dock"
+                ]
+            },
+            {
+                "sentence":"The _ ran up the clock.",
+                "sound":"b03/listeninggame/sounds/snd_sentence_02.mp3",
+                "answer":"mouse",
+                "examples":[
+                    "mouse",
+                    "clock",
+                    "down"
+                ]
+            },
+            {
+                "sentence":"The _ struck one,",
+                "sound":"b03/listeninggame/sounds/snd_sentence_03.mp3",
+                "answer":"clock",
+                "examples":[
+                    "clock",
+                    "mouse",
+                    "one"
+                ]
+            },
+            {
+                "sentence":"the mouse ran _.",
+                "sound":"b03/listeninggame/sounds/snd_sentence_04.mp3",
+                "answer":"down",
+                "examples":[
+                    "down",
+                    "up",
+                    "one"
+                ]
+            },
+            {
+                "sentence":"Hickory, dickory, _.",
+                "sound":"b03/listeninggame/sounds/snd_sentence_05.mp3",
+                "answer":"dock",
+                "examples":[
+                    "dock",
+                    "hickory",
+                    "dickory"
+                ]
+            }
+        ]
+    }
+}

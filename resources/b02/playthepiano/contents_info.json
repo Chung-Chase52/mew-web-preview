@@ -1,0 +1,54 @@
+{
+    "resources":{
+
+    },
+    "info":{
+        "noteData":{
+			"bpm":120
+			,"playdata":[
+                {"note":["g1"],"length":0.5, "comment":"1번째줄--> 솔솔솔도시" },
+                {"note":["g1"],"length":0.5},
+                {"note":["g1"],"length":0.5},
+                {"note":["c2"],"length":1},
+                {"note":["b1"],"length":0.5},
+
+                {"note":["a1"],"length":0.5, "comment":"라라라레도"},
+                {"note":["a1"],"length":0.5},
+                {"note":["a1"],"length":0.5},
+                {"note":["d2"],"length":1},
+                {"note":["c2"],"length":0.5}, 
+                
+                {"note":["b1"],"length":0.5, "comment":"시시시미레"},
+                {"note":["b1"],"length":0.5},
+                {"note":["b1"],"length":0.5},
+                {"note":["e2"],"length":1},
+                {"note":["d2"],"length":0.5}, 
+
+                {"note":["c2"],"length":2, "comment":"도  도"},                
+                {"note":["c2"],"length":0.5},
+                     
+                {"note":["g1"],"length":0.5 , "comment":"2번째줄--> 솔솔솔도시"},
+                {"note":["g1"],"length":0.5},
+                {"note":["g1"],"length":0.5},
+                {"note":["c2"],"length":1},
+                {"note":["b1"],"length":0.5},
+                        
+                {"note":["a1"],"length":0.5, "comment":"라라라레도"},
+                {"note":["a1"],"length":0.5},
+                {"note":["a1"],"length":0.5},
+                {"note":["d2"],"length":1},
+                {"note":["c2"],"length":0.5}, 
+                
+                {"note":["b1"],"length":0.5, "comment":"시라솔파라시"},
+                {"note":["a2"],"length":0.5},
+                {"note":["g2"],"length":0.5},
+                {"note":["f2"],"length":0.5},
+                {"note":["a1"],"length":0.5}, 
+                {"note":["b1"],"length":0.5}, 
+                
+                {"note":["c2"],"length":3, "comment":"도"} 
+                
+            ]
+        }
+    }
+}

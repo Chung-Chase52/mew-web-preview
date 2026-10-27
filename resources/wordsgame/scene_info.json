@@ -1,0 +1,28 @@
+{
+    "name":"WordsGame",
+    "resources":{
+        "json":[
+			"wordsgame/json/image.json"
+        ],
+        "pack":[
+        ],
+        "spine":[
+            "wordsgame/spine/common_meu.json"
+            ,"wordsgame/spine/coommon_ghost.json"
+            ,"wordsgame/spine/common_effect.json"
+            ,"listeninggame/spine/bob.json"
+            ,"listeninggame/spine/pho.json"
+            
+        ],
+        "files":[
+            "wordsgame/sounds/snd_bgm.mp3",
+            "wordsgame/sounds/snd_ready.mp3",
+            "wordsgame/sounds/snd_attack.mp3",
+            "wordsgame/sounds/snd_hit.mp3",
+            "wordsgame/sounds/snd_laugh.mp3",
+            "wordsgame/sounds/snd_shooting.mp3"
+        ]
+    },
+    "info":{
+    }
+}

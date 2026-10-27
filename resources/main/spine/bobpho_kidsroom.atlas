@@ -1,0 +1,237 @@
+
+bobpho_kidsroom.png
+size: 729,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_eye
+  rotate: false
+  xy: 692, 100
+  size: 29, 8
+  orig: 54, 23
+  offset: 13, 8
+  index: -1
+b_eye_s
+  rotate: false
+  xy: 596, 2
+  size: 33, 12
+  orig: 54, 23
+  offset: 10, 7
+  index: -1
+b_eye_w
+  rotate: false
+  xy: 475, 2
+  size: 30, 9
+  orig: 54, 23
+  offset: 13, 8
+  index: -1
+b_foot_b
+  rotate: true
+  xy: 631, 2
+  size: 20, 16
+  orig: 38, 33
+  offset: 9, 10
+  index: -1
+b_foot_b_l
+  rotate: true
+  xy: 631, 2
+  size: 20, 16
+  orig: 38, 33
+  offset: 9, 10
+  index: -1
+b_foot_t
+  rotate: false
+  xy: 597, 16
+  size: 21, 14
+  orig: 38, 33
+  offset: 8, 11
+  index: -1
+b_foot_t_l
+  rotate: true
+  xy: 705, 8
+  size: 18, 12
+  orig: 36, 30
+  offset: 9, 9
+  index: -1
+b_leg_b
+  rotate: true
+  xy: 692, 76
+  size: 9, 26
+  orig: 15, 28
+  offset: 4, 1
+  index: -1
+b_leg_b_l
+  rotate: true
+  xy: 692, 76
+  size: 9, 26
+  orig: 15, 28
+  offset: 4, 2
+  index: -1
+b_leg_t
+  rotate: true
+  xy: 507, 3
+  size: 8, 22
+  orig: 15, 28
+  offset: 4, 3
+  index: -1
+b_leg_t_l
+  rotate: true
+  xy: 507, 3
+  size: 8, 22
+  orig: 15, 28
+  offset: 4, 3
+  index: -1
+b_mo
+  rotate: false
+  xy: 532, 2
+  size: 62, 12
+  orig: 81, 35
+  offset: 9, 12
+  index: -1
+b_mo_s
+  rotate: false
+  xy: 627, 58
+  size: 62, 24
+  orig: 81, 35
+  offset: 9, 0
+  index: -1
+b_pants
+  rotate: false
+  xy: 532, 71
+  size: 93, 37
+  orig: 127, 68
+  offset: 14, 11
+  index: -1
+p_body
+  rotate: false
+  xy: 435, 13
+  size: 95, 95
+  orig: 134, 138
+  offset: 19, 20
+  index: -1
+p_corn
+  rotate: false
+  xy: 683, 3
+  size: 8, 53
+  orig: 33, 80
+  offset: 13, 17
+  index: -1
+p_eye
+  rotate: false
+  xy: 435, 2
+  size: 38, 9
+  orig: 54, 23
+  offset: 9, 7
+  index: -1
+p_eye_s
+  rotate: true
+  xy: 668, 17
+  size: 39, 13
+  orig: 54, 23
+  offset: 8, 6
+  index: -1
+p_eye_w
+  rotate: false
+  xy: 691, 64
+  size: 36, 10
+  orig: 54, 23
+  offset: 9, 7
+  index: -1
+p_foot_b
+  rotate: false
+  xy: 693, 46
+  size: 21, 16
+  orig: 38, 33
+  offset: 9, 9
+  index: -1
+p_foot_b_l
+  rotate: false
+  xy: 693, 46
+  size: 21, 16
+  orig: 38, 33
+  offset: 9, 9
+  index: -1
+p_foot_t
+  rotate: false
+  xy: 693, 28
+  size: 21, 16
+  orig: 38, 33
+  offset: 9, 9
+  index: -1
+p_foot_t_l
+  rotate: false
+  xy: 649, 10
+  size: 17, 12
+  orig: 36, 30
+  offset: 9, 9
+  index: -1
+p_leg_b
+  rotate: false
+  xy: 693, 2
+  size: 10, 24
+  orig: 15, 28
+  offset: 2, 3
+  index: -1
+p_leg_b_l
+  rotate: false
+  xy: 693, 2
+  size: 10, 24
+  orig: 15, 28
+  offset: 2, 3
+  index: -1
+p_leg_t
+  rotate: false
+  xy: 716, 40
+  size: 10, 22
+  orig: 15, 28
+  offset: 2, 3
+  index: -1
+p_leg_t_l
+  rotate: false
+  xy: 716, 40
+  size: 10, 22
+  orig: 15, 28
+  offset: 2, 3
+  index: -1
+p_mo
+  rotate: false
+  xy: 532, 16
+  size: 63, 14
+  orig: 81, 35
+  offset: 9, 11
+  index: -1
+p_mo_s
+  rotate: false
+  xy: 627, 84
+  size: 63, 24
+  orig: 81, 35
+  offset: 9, 1
+  index: -1
+p_pants
+  rotate: false
+  xy: 532, 32
+  size: 93, 37
+  orig: 127, 68
+  offset: 14, 11
+  index: -1
+p_tail
+  rotate: false
+  xy: 627, 24
+  size: 39, 32
+  orig: 58, 58
+  offset: 12, 16
+  index: -1
+p_tail_b
+  rotate: false
+  xy: 692, 87
+  size: 26, 11
+  orig: 61, 45
+  offset: 16, 13
+  index: -1
+sh
+  rotate: false
+  xy: 2, 2
+  size: 431, 106
+  orig: 469, 129
+  offset: 24, 9
+  index: -1

@@ -1,0 +1,34 @@
+
+screen_shot.png
+size: 608,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+camera_click_1
+  rotate: false
+  xy: 2, 2
+  size: 161, 143
+  orig: 165, 147
+  offset: 2, 2
+  index: -1
+camera_click_2
+  rotate: false
+  xy: 165, 2
+  size: 161, 143
+  orig: 165, 147
+  offset: 2, 2
+  index: -1
+camera_click_3
+  rotate: false
+  xy: 328, 2
+  size: 161, 143
+  orig: 165, 147
+  offset: 2, 2
+  index: -1
+camera_normal
+  rotate: true
+  xy: 491, 14
+  size: 131, 115
+  orig: 165, 147
+  offset: 17, 11
+  index: -1

@@ -1,0 +1,221 @@
+<html>
+    <head>
+        <style>
+            body{
+                margin:0;
+                background:#000;
+            }
+            canvas{
+                /* width: 100%; */
+                /* height: calc( 100vw * 0.625 ) !important; */
+                width: calc( 100vh * 1.6 ) !important;
+                height: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <div style="position:fixed;z-index:1000;width:100%;   height:100%;display:flex;align-items: center;justify-content: center;">
+            <canvas id="stage"></canvas>
+        </div>
+
+        <script src="./js/webfont.js"></script>
+        <script src="./js/pixi.min.js" ></script>
+        <script src="./js/pixi-spine.js" ></script>
+        <script src="./js/pixi-sound.js" ></script>
+        <script src="./js/pixi-minigate.js" ></script>
+        <script src="./js/recorder.js" ></script>
+        <script src="./js/woochon.js" ></script>
+        <script>
+            WebFont.load({
+                custom: {
+                    families: ['BPreplay'],
+                    urls: ['fonts/fonts.css']
+                },
+                active: function(){
+                    start();
+                }
+            });
+
+            var UCAndroidNative ={};
+            UCAndroidNative.getPigmentImageList = function( cb ){
+                console.log( "UCAndroidNative getPigmentImageList");
+                // cb : (list:Array<string>)=>void 
+                let jsonstring = android.getPigmentImageList();
+                if( cb ) cb( JSON.parse( jsonstring ) );
+            }
+            UCAndroidNative.getMyOwnStageImageList = function(cb){
+                console.log( "UCAndroidNative getMyOwnStageImageList");
+                // cb : (list:Array<string>)=>void 
+                let jsonstring = android.getMyOwnStageImageList();
+                if( cb ) cb( JSON.parse( jsonstring ) );
+            }
+
+            UCAndroidNative.savePigmentImage= function( blob ){
+                console.log( "UCAndroidNative savePigmentImage");
+                var reader = new window.FileReader();
+                reader.readAsDataURL(blob); 
+                reader.onloadend = function() {
+                    var base64data = reader.result;                
+                    android.savePigmentImage(base64data);
+                }
+                
+            }
+
+            UCAndroidNative.saveMyOwnStageImage = function(blob ){
+                console.log( "UCAndroidNative saveMyOwnStageImage");
+                var reader = new window.FileReader();
+                reader.readAsDataURL(blob); 
+                reader.onloadend = function() {
+                    var base64data = reader.result;                
+                    android.saveMyOwnStageImage(base64data);
+                }                
+            }
+
+            UCAndroidNative.onHideSplash = function(){
+                console.log( "UCAndroidNative onHideSplash");
+                android.onHideSplash();             
+            }
+
+            UCAndroidNative.getExternalStorage = function(){
+                return android.getExternalStorage();             
+            }
+
+            UCAndroidNative.getDataDir = function(){
+                return android.getDataDir();
+            }
+
+
+            UCAndroidNative.startRecord = function(path, filebasename){
+                android.startRecord(path, filebasename);
+            }
+
+            UCAndroidNative.stopRecord = function(){
+                android.stopRecord();
+            }
+
+            UCAndroidNative.pauseRecord = function(){
+                android.pauseRecord();
+            }
+
+            UCAndroidNative.resumeRecord = function(){
+                android.resumeRecord();
+            }
+
+            UCAndroidNative.saveRecordFile = function(name){
+                android.saveRecordFile(name);
+            }
+
+            // UCAndroidNative.saveRecord = function(filepath){
+            //     android.saveRecord(filepath);
+            // }
+
+            UCAndroidNative.isRecording = function(){
+                return android.isRecording();
+            }
+
+            UCAndroidNative.isPauseRecording = function(){
+                android.isRecording();
+            }
+
+            UCAndroidNative.hasRecordInstance = function(){
+                return android.hasRecordInstance();
+            }
+    
+            UCAndroidNative.playSoundRec = function(path,filebasename){
+                android.playSoundRec(path,filebasename);
+            }
+
+            UCAndroidNative.stopSoundRec = function(){
+                android.stopSoundRec();
+            }
+
+            UCAndroidNative.pauseSoundRec = function(){
+                android.pauseSoundRec();
+            }
+
+            UCAndroidNative.resumeSoundRec = function(){
+                android.resumeSoundRec();
+            }
+
+            UCAndroidNative.setVolumeSoundRec = function(vol){
+                android.setVolumeSoundRec(vol);
+            }
+
+            UCAndroidNative.getCurrentTimeSoundRec = function(){
+                return android.getCurrentTimeSoundRec();
+            }
+
+            UCAndroidNative.setCurrentTimeSoundRec = function( t ){
+                android.setCurrentTimeSoundRec(t);
+            };
+
+            UCAndroidNative.getDurationSoundRec = function(){
+                return android.getDurationSoundRec();
+            };
+
+            // UCAndroidNative.deleteTempRecordFile = function(filepath){
+            //     android.deleteTempRecordFile(filepath);
+            // }
+
+            UCAndroidNative.hasMediaInstance = function(){
+                return android.hasMediaInstance();
+            }
+
+            UCAndroidNative.showKeyboard = function(){
+                android.showKeyboard();
+            };
+
+            UCAndroidNative.hideKeyboard = function(){
+                android.hideKeyboard();
+            };
+
+            UCAndroidNative.setEditText = function(str){
+                android.setEditText(str);
+            }
+
+            UCAndroidNative.exit = function(){
+                android.exit();
+            };
+
+            function onKeyInputEvent(key){
+                console.log("javascript::onKeyInputEvent", key);
+                Woochon.onKeyInputEvent(key);
+            }
+
+            function onEnterKey(){
+                console.log("javascript::onEnterKey");
+                Woochon.onEnterKey();
+            }
+
+            function onDeleteKey(){
+                console.log("javascript::onDeleteKey");
+                Woochon.onDeleteKey();
+            }
+
+            function onAndroidPause(){
+                console.log("javascript::onAndroidPause");
+                Woochon.onPause();
+            }
+
+            function onAndroidResume(){
+                console.log("javascript::onAndroidResume");
+                Woochon.onResume();
+            }
+
+            function onAndroidStop(){
+                console.log("javascript::onAndroidStop");
+                Woochon.onStop();
+            }
+
+            function onAndroidDestroy(){
+                console.log("javascript::onAndroidDestroy");
+                Woochon.onDestroy();
+            }
+            function start(){
+                Woochon.start( document.getElementById( "stage" ) );
+                Woochon.setInteractionType("touch");
+            }
+
+        </script>
+    </body>
+</html>

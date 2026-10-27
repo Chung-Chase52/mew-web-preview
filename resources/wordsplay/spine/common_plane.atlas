@@ -1,0 +1,27 @@
+
+common_plane.png
+size: 182,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+center
+  rotate: false
+  xy: 162, 29
+  size: 13, 17
+  orig: 47, 53
+  offset: 18, 16
+  index: -1
+plane
+  rotate: false
+  xy: 2, 2
+  size: 158, 88
+  orig: 200, 141
+  offset: 17, 20
+  index: -1
+wing
+  rotate: false
+  xy: 162, 48
+  size: 18, 42
+  orig: 58, 87
+  offset: 18, 28
+  index: -1

@@ -1,0 +1,145 @@
+{
+    "resources":{
+
+    },
+    "info":{
+        "noteData":{
+			"bpm":120
+			,"playdata":[
+                {"note":["g1"],"length":0.5, "comment":"1번째줄--> 솔미레도솔 솔솔 솔미레도라" },
+                {"note":["e2"],"length":0.5},
+                {"note":["d2"],"length":0.5},
+                {"note":["c2"],"length":0.5},
+                {"note":["g1"],"length":1.5},       
+                
+                {"note":["g1"],"length":0.25},
+                {"note":["g1"],"length":0.25},
+
+                {"note":["g1"],"length":0.5},
+                {"note":["e2"],"length":0.5},
+                {"note":["d2"],"length":0.5},
+                {"note":["c2"],"length":0.5},
+                {"note":["a1"],"length":2},
+                
+                {"note":["a1"],"length":0.5, "comment":"2번째줄--> 라파미레시 솔솔파레미도" },
+                {"note":["f2"],"length":0.5},
+                {"note":["e2"],"length":0.5},
+                {"note":["d2"],"length":0.5},
+                {"note":["b1"],"length":2},
+
+                {"note":["g2"],"length":0.5},
+                {"note":["g2"],"length":0.5},
+                {"note":["f2"],"length":0.5},
+                {"note":["d2"],"length":0.5},
+                {"note":["e2"],"length":1},
+                {"note":["c2"],"length":1},
+                
+                {"note":["g1"],"length":0.5, "comment":"3번째줄--> 솔미레도솔  솔미레도라  라" },
+                {"note":["e2"],"length":0.5},
+                {"note":["d2"],"length":0.5},
+                {"note":["c2"],"length":0.5},
+                {"note":["g1"],"length":2},       
+                
+                {"note":["g1"],"length":0.5},
+                {"note":["e2"],"length":0.5},
+                {"note":["d2"],"length":0.5},
+                {"note":["c2"],"length":0.5},
+                {"note":["a1"],"length":1.5},
+                
+                {"note":["a1"],"length":0.5},
+
+                {"note":["a1"],"length":0.5, "comment":"4번째줄-->라파미레솔솔솔솔 라솔파레도솔" },
+                {"note":["f2"],"length":0.5},
+                {"note":["e2"],"length":0.5},
+                {"note":["d2"],"length":0.5},
+                {"note":["g2"],"length":0.5},
+                {"note":["g2"],"length":0.5},
+                {"note":["g2"],"length":0.5},
+                {"note":["g2"],"length":0.5},
+                
+                {"note":["a2"],"length":0.5},
+                {"note":["g2"],"length":0.5},
+                {"note":["f2"],"length":0.5},
+                {"note":["d2"],"length":0.5},
+                {"note":["c2"],"length":1},
+                {"note":["g2"],"length":1},
+                
+                {"note":["e2"],"length":0.5, "comment":"5번째줄-->미미미 미미미 미솔도레미"},
+                {"note":["e2"],"length":0.5},
+                {"note":["e2"],"length":1},
+                {"note":["e2"],"length":0.5},
+                {"note":["e2"],"length":0.5},
+                {"note":["e2"],"length":1},
+                
+                {"note":["e2"],"length":0.5},
+                {"note":["g2"],"length":0.5},
+                {"note":["c2"],"length":0.75},
+                {"note":["d2"],"length":0.25},
+                {"note":["e2"],"length":2},
+                
+                {"note":["f2"],"length":0.5, "comment":"6번째줄-->파파파파파미미미미 미레레도레솔"},
+                {"note":["f2"],"length":0.5},
+                {"note":["f2"],"length":0.75},
+                {"note":["f2"],"length":0.25},
+                {"note":["f2"],"length":0.5},
+                {"note":["e2"],"length":0.5},
+                {"note":["e2"],"length":0.5},
+                {"note":["e2"],"length":0.25},
+                {"note":["e2"],"length":0.25},
+
+                {"note":["e2"],"length":0.5},
+                {"note":["d2"],"length":0.5},
+                {"note":["d2"],"length":0.5},
+                {"note":["c2"],"length":0.5},
+                {"note":["d2"],"length":1},
+                {"note":["g2"],"length":1},
+
+                {"note":["e2"],"length":0.5, "comment":"7번째줄-->미미미 미미미 미솔도레미"},
+                {"note":["e2"],"length":0.5},
+                {"note":["e2"],"length":1},
+                {"note":["e2"],"length":0.5},
+                {"note":["e2"],"length":0.5},
+                {"note":["e2"],"length":1},
+                
+                {"note":["e2"],"length":0.5},
+                {"note":["g2"],"length":0.5},
+                {"note":["c2"],"length":0.75},
+                {"note":["d2"],"length":0.25},
+                {"note":["e2"],"length":2},
+                
+
+                {"note":["f2"],"length":0.5, "comment":"8번째줄-->파파파파파미미미미 솔솔파레도"},
+                {"note":["f2"],"length":0.5},
+                {"note":["f2"],"length":0.75},
+                {"note":["f2"],"length":0.25},
+                {"note":["f2"],"length":0.5},
+                {"note":["e2"],"length":0.5},
+                {"note":["e2"],"length":0.5},
+                {"note":["e2"],"length":0.25},
+                {"note":["e2"],"length":0.25},
+
+                {"note":["g2"],"length":0.5},
+                {"note":["g2"],"length":0.5},
+                {"note":["f2"],"length":0.5},
+                {"note":["d2"],"length":0.5},
+                {"note":["c2"],"length":2},
+
+                {"note":["f2"],"length":0.5, "comment":"9번째줄-->파파파파파미미미미 솔솔파레도"},
+                {"note":["f2"],"length":0.5},
+                {"note":["f2"],"length":0.75},
+                {"note":["f2"],"length":0.25},
+                {"note":["f2"],"length":0.5},
+                {"note":["e2"],"length":0.5},
+                {"note":["e2"],"length":0.5},
+                {"note":["e2"],"length":0.25},
+                {"note":["e2"],"length":0.25},
+
+                {"note":["g2"],"length":1},
+                {"note":["g2"],"length":1},
+                {"note":["f2"],"length":1},
+                {"note":["d2"],"length":1},
+                {"note":["c2"],"length":4}
+            ]
+        }
+    }
+}

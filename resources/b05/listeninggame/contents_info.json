@@ -1,0 +1,65 @@
+{
+    "resources":{
+        "files": [
+            "b05/listeninggame/sounds/snd_sentence_01.mp3",
+            "b05/listeninggame/sounds/snd_sentence_02.mp3",
+            "b05/listeninggame/sounds/snd_sentence_03.mp3",
+            "b05/listeninggame/sounds/snd_sentence_04.mp3",
+            "b05/listeninggame/sounds/snd_sentence_05.mp3"
+        ]
+    },
+    "info":{
+        "questions":[
+            {
+                "sentence":"Dashing through the _,",
+                "sound":"b05/listeninggame/sounds/snd_sentence_01.mp3",
+                "answer":"snow",
+                "examples":[
+                    "snow",
+                    "horse",
+                    "fields"
+                ]
+            },
+            {
+                "sentence":"Bells on bob _ ring,",
+                "sound":"b05/listeninggame/sounds/snd_sentence_02.mp3",
+                "answer":"tails",
+                "examples":[
+                    "tails",
+                    "song",
+                    "snow"
+                ]
+            },
+            {
+                "sentence":"over _ we go,",
+                "sound":"b05/listeninggame/sounds/snd_sentence_03.mp3",
+                "answer":"fields",
+                "examples":[
+                    "fields",
+                    "ring",
+                    "snow"
+                ]
+            },
+            {
+                "sentence":"a sleighing _ tonight.",
+                "sound":"b05/listeninggame/sounds/snd_sentence_04.mp3",
+                "answer":"song",
+                "examples":[
+                    "song",
+                    "ring",
+                    "snow"
+                ]
+            },
+            {
+                "sentence":"_ all the way.",
+                "sound":"b05/listeninggame/sounds/snd_sentence_05.mp3",
+                "answer":"jingle",
+                "examples":[
+                    "jingle",
+                    "tail",
+                    "song"
+                ]
+            }
+        ]
+    }
+}

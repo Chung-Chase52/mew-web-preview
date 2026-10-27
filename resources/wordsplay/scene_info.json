@@ -1,0 +1,27 @@
+{
+    "name":"WordsPlay",
+    "resources":{
+        "json":[
+        ],
+        "pack":[
+        ],
+        "spine":[
+            "wordsplay/spine/common_plane.json"
+        ],
+        "files":[
+            "wordsplay/images/wordsplay_word_box.png",
+            "wordsplay/images/wordsplay_correct_check.png",
+            "wordsplay/images/wordsplay_title.png",
+            "wordsplay/images/wordsplay_card_normal.png",
+            "wordsplay/images/wordsplay_card_down.png",
+            "wordsplay/images/wordsplay_card_correct.png",
+            "wordsplay/images/wordsplay_bg.png",
+            "wordsplay/sounds/snd_bgm.mp3",
+            "wordsplay/sounds/snd_ready.mp3",
+            "wordsplay/sounds/snd_plane.mp3",
+            "wordsplay/sounds/snd_card.mp3"
+        ]
+    },
+    "info":{
+    }
+}

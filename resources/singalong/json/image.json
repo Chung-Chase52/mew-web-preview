@@ -1,0 +1,37 @@
+{
+    "resources":{
+		"files":[
+			"singalong/images/big_mic_off.png"
+			,"singalong/images/big_mic_on.png"
+			,"singalong/images/my_song_text.png"
+			,"singalong/images/pause_down.png"
+			,"singalong/images/pause_on.png"
+			,"singalong/images/pause_text.png"
+			,"singalong/images/rec_btn.png"
+			,"singalong/images/rec_text.png"
+			,"singalong/images/playbar_bg.png"
+			,"singalong/images/playbar_up.png"
+			,"singalong/images/playbar_up_black.png"
+			,"singalong/images/player_bar.png"
+			,"singalong/images/play_down.png"
+			,"singalong/images/play_on.png"
+			,"singalong/images/scroll_btn.png"
+			,"singalong/images/scroll_lock_btn.png"
+			,"singalong/images/singalong_title.png"
+			,"singalong/images/sound_lock_normal.png"
+			,"singalong/images/sound_off_down.png"
+			,"singalong/images/sound_off_normal.png"
+			,"singalong/images/sound_on_down.png"
+			,"singalong/images/sound_on_normal.png"
+			,"singalong/images/stop_down.png"
+			,"singalong/images/stop_on.png"
+			,"singalong/images/vol_bar_lock_up.png"
+			,"singalong/images/vol_bar_under.png"
+			,"singalong/images/vol_bar_up.png",
+			"singalong/images/popup_name_bg.png",
+			"singalong/images/popup_name_btn_apply_down.png",
+			"singalong/images/popup_name_btn_apply_normal.png"
+		]
+	
+	}
+}

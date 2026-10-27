@@ -1,0 +1,48 @@
+
+coommon_ghost.png
+size: 187,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 86, 20
+  size: 61, 64
+  orig: 87, 83
+  offset: 15, 9
+  index: -1
+body
+  rotate: true
+  xy: 2, 86
+  size: 170, 183
+  orig: 217, 231
+  offset: 24, 22
+  index: -1
+circle
+  rotate: false
+  xy: 2, 2
+  size: 82, 82
+  orig: 124, 124
+  offset: 21, 21
+  index: -1
+eb
+  rotate: false
+  xy: 149, 35
+  size: 18, 17
+  orig: 46, 42
+  offset: 15, 12
+  index: -1
+eye
+  rotate: false
+  xy: 149, 54
+  size: 36, 30
+  orig: 53, 59
+  offset: 7, 13
+  index: -1
+mo
+  rotate: false
+  xy: 169, 33
+  size: 13, 19
+  orig: 29, 44
+  offset: 8, 13
+  index: -1

@@ -1,0 +1,202 @@
+
+meu_kidsroom.png
+size: 1413,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 22
+  size: 306, 400
+  orig: 356, 432
+  offset: 24, 21
+  index: -1
+eye
+  rotate: false
+  xy: 2, 3
+  size: 17, 17
+  orig: 36, 35
+  offset: 11, 8
+  index: -1
+eye_ca
+  rotate: true
+  xy: 487, 15
+  size: 84, 81
+  orig: 133, 128
+  offset: 26, 22
+  index: -1
+eye_cl
+  rotate: false
+  xy: 1247, 139
+  size: 84, 81
+  orig: 133, 128
+  offset: 26, 22
+  index: -1
+eye_d
+  rotate: true
+  xy: 1247, 53
+  size: 84, 81
+  orig: 133, 128
+  offset: 26, 22
+  index: -1
+eye_s
+  rotate: true
+  xy: 404, 13
+  size: 86, 81
+  orig: 133, 128
+  offset: 24, 22
+  index: -1
+eye_su
+  rotate: true
+  xy: 1330, 53
+  size: 84, 81
+  orig: 133, 128
+  offset: 26, 22
+  index: -1
+foot
+  rotate: false
+  xy: 21, 4
+  size: 40, 16
+  orig: 52, 41
+  offset: 6, 13
+  index: -1
+foot_l
+  rotate: false
+  xy: 21, 4
+  size: 40, 16
+  orig: 52, 41
+  offset: 6, 13
+  index: -1
+hair
+  rotate: true
+  xy: 1333, 150
+  size: 70, 78
+  orig: 104, 109
+  offset: 15, 13
+  index: -1
+hs_l
+  rotate: true
+  xy: 672, 17
+  size: 112, 181
+  orig: 169, 217
+  offset: 31, 23
+  index: -1
+hs_r
+  rotate: false
+  xy: 864, 147
+  size: 112, 181
+  orig: 148, 207
+  offset: 21, 8
+  index: -1
+leg_b
+  rotate: true
+  xy: 127, 6
+  size: 14, 50
+  orig: 35, 76
+  offset: 9, 14
+  index: -1
+leg_b_l
+  rotate: true
+  xy: 127, 6
+  size: 14, 50
+  orig: 35, 76
+  offset: 9, 14
+  index: -1
+leg_t
+  rotate: true
+  xy: 63, 6
+  size: 14, 62
+  orig: 37, 80
+  offset: 11, 5
+  index: -1
+leg_t_l
+  rotate: true
+  xy: 63, 6
+  size: 14, 62
+  orig: 37, 80
+  offset: 11, 5
+  index: -1
+m_wing03_r
+  rotate: true
+  xy: 1095, 61
+  size: 159, 150
+  orig: 209, 209
+  offset: 28, 33
+  index: -1
+mo_d
+  rotate: true
+  xy: 1035, 60
+  size: 160, 58
+  orig: 204, 94
+  offset: 26, 20
+  index: -1
+mo_si_b
+  rotate: false
+  xy: 1074, 2
+  size: 148, 56
+  orig: 189, 106
+  offset: 29, 23
+  index: -1
+mo_si_t
+  rotate: false
+  xy: 921, 7
+  size: 151, 48
+  orig: 204, 87
+  offset: 28, 19
+  index: -1
+mo_su_b
+  rotate: true
+  xy: 855, 4
+  size: 136, 64
+  orig: 149, 71
+  offset: 5, 2
+  index: -1
+mo_su_sh
+  rotate: true
+  xy: 921, 77
+  size: 68, 45
+  orig: 113, 76
+  offset: 21, 11
+  index: -1
+mo_su_t
+  rotate: true
+  xy: 978, 57
+  size: 163, 55
+  orig: 191, 76
+  offset: 15, 10
+  index: -1
+sh
+  rotate: false
+  xy: 978, 222
+  size: 431, 106
+  orig: 469, 129
+  offset: 24, 9
+  index: -1
+wing03_s
+  rotate: false
+  xy: 570, 10
+  size: 100, 119
+  orig: 147, 193
+  offset: 30, 38
+  index: -1
+wing_l
+  rotate: true
+  xy: 705, 142
+  size: 186, 157
+  orig: 206, 186
+  offset: 8, 8
+  index: -1
+wing_r
+  rotate: true
+  xy: 564, 131
+  size: 197, 139
+  orig: 220, 168
+  offset: 18, 10
+  index: -1
+wing_up
+  rotate: false
+  xy: 404, 101
+  size: 158, 227
+  orig: 173, 253
+  offset: 5, 17
+  index: -1

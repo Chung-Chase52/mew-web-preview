@@ -1,0 +1,125 @@
+
+common_meu.png
+size: 1144,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bob
+  rotate: false
+  xy: 391, 40
+  size: 185, 259
+  orig: 228, 305
+  offset: 23, 17
+  index: -1
+body_t
+  rotate: true
+  xy: 2, 9
+  size: 290, 387
+  orig: 356, 432
+  offset: 32, 29
+  index: -1
+eye
+  rotate: false
+  xy: 391, 21
+  size: 17, 17
+  orig: 36, 35
+  offset: 11, 8
+  index: -1
+eye_ca
+  rotate: true
+  xy: 975, 165
+  size: 84, 81
+  orig: 133, 128
+  offset: 26, 22
+  index: -1
+eye_cl
+  rotate: false
+  xy: 1058, 168
+  size: 84, 81
+  orig: 133, 128
+  offset: 26, 22
+  index: -1
+eye_d
+  rotate: false
+  xy: 1058, 85
+  size: 84, 81
+  orig: 133, 128
+  offset: 26, 22
+  index: -1
+eye_su
+  rotate: false
+  xy: 981, 2
+  size: 84, 81
+  orig: 133, 128
+  offset: 26, 22
+  index: -1
+hair
+  rotate: false
+  xy: 981, 85
+  size: 70, 78
+  orig: 104, 109
+  offset: 15, 13
+  index: -1
+hs_l
+  rotate: false
+  xy: 738, 118
+  size: 112, 181
+  orig: 169, 217
+  offset: 31, 23
+  index: -1
+hs_r
+  rotate: true
+  xy: 740, 4
+  size: 112, 181
+  orig: 148, 207
+  offset: 21, 8
+  index: -1
+mo_d
+  rotate: false
+  xy: 578, 12
+  size: 160, 58
+  orig: 204, 94
+  offset: 26, 20
+  index: -1
+mo_si_b
+  rotate: true
+  xy: 923, 13
+  size: 148, 56
+  orig: 189, 106
+  offset: 29, 23
+  index: -1
+mo_si_t
+  rotate: false
+  xy: 975, 251
+  size: 151, 48
+  orig: 204, 87
+  offset: 28, 19
+  index: -1
+mo_su_b
+  rotate: true
+  xy: 909, 163
+  size: 136, 64
+  orig: 149, 71
+  offset: 5, 2
+  index: -1
+mo_su_sh
+  rotate: true
+  xy: 1067, 15
+  size: 68, 45
+  orig: 113, 76
+  offset: 21, 11
+  index: -1
+mo_su_t
+  rotate: true
+  xy: 852, 136
+  size: 163, 55
+  orig: 191, 76
+  offset: 15, 10
+  index: -1
+wing_up
+  rotate: false
+  xy: 578, 72
+  size: 158, 227
+  orig: 173, 253
+  offset: 5, 17
+  index: -1

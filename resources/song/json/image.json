@@ -1,0 +1,26 @@
+{
+    "resources":{
+		"files":[
+			"song/images/big_play_off.png"
+			,"song/images/big_play_on.png"
+			,"song/images/pause_down.png"
+			,"song/images/pause_on.png"
+			,"song/images/playbar_bg.png"
+			,"song/images/playbar_up.png"
+			,"song/images/player_bar.png"
+			,"song/images/play_down.png"
+			,"song/images/play_on.png"
+			,"song/images/scroll_btn.png"
+			,"song/images/song_title.png"
+			,"song/images/sound_off_down.png"
+			,"song/images/sound_off_normal.png"
+			,"song/images/sound_on_down.png"
+			,"song/images/sound_on_normal.png"
+			,"song/images/stop_down.png"
+			,"song/images/stop_on.png"
+			,"song/images/vol_bar_under.png"
+			,"song/images/vol_bar_up.png"
+		]
+	
+	}
+}

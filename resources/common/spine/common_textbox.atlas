@@ -1,0 +1,20 @@
+
+common_textbox.png
+size: 868,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t_ball
+  rotate: false
+  xy: 2, 213
+  size: 864, 343
+  orig: 956, 432
+  offset: 44, 43
+  index: -1
+t_hello
+  rotate: false
+  xy: 2, 2
+  size: 674, 209
+  orig: 714, 222
+  offset: 16, 4
+  index: -1

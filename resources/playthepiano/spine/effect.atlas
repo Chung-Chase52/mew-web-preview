@@ -1,0 +1,13 @@
+
+effect.png
+size: 103,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+particle
+  rotate: false
+  xy: 2, 2
+  size: 99, 99
+  orig: 100, 102
+  offset: 0, 1
+  index: -1

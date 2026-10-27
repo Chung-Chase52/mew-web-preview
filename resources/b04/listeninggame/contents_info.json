@@ -1,0 +1,65 @@
+{
+    "resources":{
+        "files": [
+            "b04/listeninggame/sounds/snd_sentence_01.mp3",
+            "b04/listeninggame/sounds/snd_sentence_02.mp3",
+            "b04/listeninggame/sounds/snd_sentence_03.mp3",
+            "b04/listeninggame/sounds/snd_sentence_04.mp3",
+            "b04/listeninggame/sounds/snd_sentence_05.mp3"
+        ]
+    },
+    "info":{
+        "questions":[
+            {
+                "sentence":"The _ and the fiddle,",
+                "sound":"b04/listeninggame/sounds/snd_sentence_01.mp3",
+                "answer":"cat",
+                "examples":[
+                    "cat",
+                    "dog",
+                    "cow"
+                ]
+            },
+            {
+                "sentence":"the cow jumped over the _.",
+                "sound":"b04/listeninggame/sounds/snd_sentence_02.mp3",
+                "answer":"moon",
+                "examples":[
+                    "moon",
+                    "dish",
+                    "spoon"
+                ]
+            },
+            {
+                "sentence":"The little _ laughed",
+                "sound":"b04/listeninggame/sounds/snd_sentence_03.mp3",
+                "answer":"dog",
+                "examples":[
+                    "dog",
+                    "cat",
+                    "cow"
+                ]
+            },
+            {
+                "sentence":"to see such _,",
+                "sound":"b04/listeninggame/sounds/snd_sentence_04.mp3",
+                "answer":"sport",
+                "examples":[
+                    "sport",
+                    "dish",
+                    "jump"
+                ]
+            },
+            {
+                "sentence":"and the _ ran a way with the spoon!",
+                "sound":"b04/listeninggame/sounds/snd_sentence_05.mp3",
+                "answer":"dish",
+                "examples":[
+                    "dish",
+                    "sport",
+                    "moon"
+                ]
+            }
+        ]
+    }
+}

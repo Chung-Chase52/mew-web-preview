@@ -1,0 +1,49 @@
+{
+    "resources":{
+		"files":[
+			"playthepiano/images/bg.png"
+			,"playthepiano/images/play_the_piano_text.png"
+			,"playthepiano/images/finish_line_normal.png"
+			,"playthepiano/images/finish_line_over.png"
+			,"playthepiano/images/key_mark.png"
+			
+			,"playthepiano/images/cha_1.png"
+			,"playthepiano/images/cha_2.png"
+			
+			,"playthepiano/images/key/black_key.png"
+			,"playthepiano/images/key/key_1_normal.png"
+			,"playthepiano/images/key/key_2_normal.png"
+			,"playthepiano/images/key/key_3_normal.png"
+			
+			,"playthepiano/images/key/btn/do_btn_2.png"
+			,"playthepiano/images/key/btn/dp_btn_1.png"
+			,"playthepiano/images/key/btn/fa_btn_1.png"
+			,"playthepiano/images/key/btn/fa_btn_2.png"
+			,"playthepiano/images/key/btn/la_btn_1.png"
+			,"playthepiano/images/key/btn/la_btn_2.png"
+			,"playthepiano/images/key/btn/mi_btn_1.png"
+			,"playthepiano/images/key/btn/mi_btn_2.png"
+			,"playthepiano/images/key/btn/re_btn_1.png"
+			,"playthepiano/images/key/btn/re_btn_2.png"
+			,"playthepiano/images/key/btn/sol_btn_1.png"
+			,"playthepiano/images/key/btn/sol_btn_2.png"
+			,"playthepiano/images/key/btn/ti_btn_1.png"
+			,"playthepiano/images/key/btn/ti_btn_2.png"
+			
+			,"playthepiano/images/key/color/do_1.png"
+			,"playthepiano/images/key/color/do_2.png"
+			,"playthepiano/images/key/color/fa_1.png"
+			,"playthepiano/images/key/color/fa_2.png"
+			,"playthepiano/images/key/color/la_1.png"
+			,"playthepiano/images/key/color/la_2.png"
+			,"playthepiano/images/key/color/mi_1.png"
+			,"playthepiano/images/key/color/mi_2.png"
+			,"playthepiano/images/key/color/re_1.png"
+			,"playthepiano/images/key/color/re_2.png"
+			,"playthepiano/images/key/color/sol_1.png"
+			,"playthepiano/images/key/color/sol_2.png"
+			,"playthepiano/images/key/color/ti_1.png"
+			,"playthepiano/images/key/color/ti_2.png"
+		]
+	}
+}

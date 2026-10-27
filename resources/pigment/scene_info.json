@@ -1,0 +1,23 @@
+{
+    "name":"Pigment",
+    "resources":{
+        "json":[
+			"pigment/json/image.json"			
+        ],
+        "pack":[
+        ],
+        "spine":[
+        ],
+        "files":[
+            "pigment/sounds/snd_bgm.mp3",
+            "pigment/sounds/snd_ready.mp3",
+            "pigment/sounds/snd_eraser.mp3",
+            "pigment/sounds/snd_pencil.mp3",
+            "pigment/sounds/snd_select_btn.mp3"
+        ]
+    },
+    "info":{
+        "contents":[
+        ]
+    }
+}

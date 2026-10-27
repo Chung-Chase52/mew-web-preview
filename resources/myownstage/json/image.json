@@ -1,0 +1,11 @@
+{
+    "resources":{
+		"files":[
+			"myownstage/images/myownstage_text.png"
+			,"myownstage/images/sticker_bg.png"
+			,"myownstage/images/close_btn.png"
+			,"myownstage/images/rotation_btn.png"
+			,"myownstage/images/scale_btn.png"
+		]
+	}
+}

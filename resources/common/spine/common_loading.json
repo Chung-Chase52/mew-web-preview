@@ -1,0 +1,92 @@
+{
+"skeleton": {
+	"hash": "vBcOg+UN8nr6BEqJ/90ObfPBwwY",
+	"spine": "3.8.76",
+	"x": -163.25,
+	"y": -143.5,
+	"width": 328.25,
+	"height": 532.24,
+	"images": "./loading/",
+	"audio": "D:/minigate/work/03_우촌/07_Resource/loading/spine/loading_loop"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "wave", "parent": "root" },
+	{ "name": "wave_h", "parent": "wave", "x": -1.25, "y": -163.95 },
+	{ "name": "wave02", "parent": "wave_h", "x": -777.03, "y": 39.64 },
+	{ "name": "wave01", "parent": "wave_h", "x": 798.41, "y": 70.46 },
+	{ "name": "wave2", "parent": "wave_h", "x": -777.03, "y": -34.91 }
+],
+"slots": [
+	{ "name": "wave", "bone": "root", "attachment": "wave" },
+	{ "name": "squ", "bone": "wave", "attachment": "squ" },
+	{ "name": "wave01", "bone": "wave01", "attachment": "wave01" },
+	{ "name": "wave02", "bone": "wave02", "attachment": "wave02" },
+	{ "name": "wave2", "bone": "wave2", "attachment": "wave02" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"squ": {
+				"squ": { "y": 19.01, "scaleY": 2.4764, "width": 359, "height": 359 }
+			},
+			"wave": {
+				"wave": {
+					"type": "clipping",
+					"end": "wave",
+					"vertexCount": 4,
+					"vertices": [ -163.25, 388.56, 164.78, 388.74, 165, -143.5, -162.68, -142.66 ],
+					"color": "ce3a3aff"
+				}
+			},
+			"wave01": {
+				"wave01": { "x": -646.22, "y": -43.63, "width": 1765, "height": 390 }
+			},
+			"wave02": {
+				"wave02": { "x": 771.56, "y": -13.44, "width": 1765, "height": 390 }
+			},
+			"wave2": {
+				"wave02": { "x": 771.56, "y": -13.44, "width": 1765, "height": 390 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"wave_h": {
+				"translate": [
+					{ "y": -190.47, "curve": 0.041, "c2": 0.17, "c3": 0.75 },
+					{ "time": 3, "y": 309.57 }
+				]
+			},
+			"wave01": {
+				"translate": [
+					{ "x": 420.49, "curve": 0.041, "c2": 0.17, "c3": 0.75 },
+					{ "time": 3, "x": -612.31 }
+				],
+				"scale": [
+					{ "curve": 0.041, "c2": 0.17, "c3": 0.75 },
+					{ "time": 3.3333, "x": 1.1, "y": 1.1 }
+				]
+			},
+			"wave02": {
+				"translate": [
+					{ "x": -581.75, "curve": 0.041, "c2": 0.17, "c3": 0.75 },
+					{ "time": 3, "x": 606.08 }
+				],
+				"scale": [
+					{ "curve": 0.041, "c2": 0.17, "c3": 0.75 },
+					{ "time": 3.3667, "x": 1.1, "y": 1.1 }
+				]
+			},
+			"wave2": {
+				"translate": [
+					{ "y": -71.57 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,65 @@
+{
+    "resources":{
+        "files": [
+            "b02/listeninggame/sounds/snd_sentence_01.mp3",
+            "b02/listeninggame/sounds/snd_sentence_02.mp3",
+            "b02/listeninggame/sounds/snd_sentence_03.mp3",
+            "b02/listeninggame/sounds/snd_sentence_04.mp3",
+            "b02/listeninggame/sounds/snd_sentence_05.mp3"
+        ]
+    },
+    "info":{
+        "questions":[
+            {
+                "sentence":"sat in the _,",
+                "sound":"b02/listeninggame/sounds/snd_sentence_01.mp3",
+                "answer":"corner",
+                "examples":[
+                    "corner",
+                    "pie",
+                    "plum"
+                ]
+            },
+            {
+                "sentence":"eating his Christmas _;",
+                "sound":"b02/listeninggame/sounds/snd_sentence_02.mp3",
+                "answer":"pie",
+                "examples":[
+                    "pie",
+                    "thumb",
+                    "corner"
+                ]
+            },
+            {
+                "sentence":"He put in his _,",
+                "sound":"b02/listeninggame/sounds/snd_sentence_03.mp3",
+                "answer":"thumb",
+                "examples":[
+                    "thumb",
+                    "put",
+                    "out"
+                ]
+            },
+            {
+                "sentence":"and pulled out a _,",
+                "sound":"b02/listeninggame/sounds/snd_sentence_04.mp3",
+                "answer":"plum",
+                "examples":[
+                    "plum",
+                    "thumb",
+                    "pie"
+                ]
+            },
+            {
+                "sentence":"and said, \"What a good _ am I!\"",
+                "sound":"b02/listeninggame/sounds/snd_sentence_05.mp3",
+                "answer":"boy",
+                "examples":[
+                    "boy",
+                    "pie",
+                    "corner"
+                ]
+            }
+        ]
+    }
+}

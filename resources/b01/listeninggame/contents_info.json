@@ -1,0 +1,65 @@
+{
+    "resources": {
+        "files": [
+            "b01/listeninggame/sounds/snd_sentence_01.mp3",
+            "b01/listeninggame/sounds/snd_sentence_02.mp3",
+            "b01/listeninggame/sounds/snd_sentence_03.mp3",
+            "b01/listeninggame/sounds/snd_sentence_04.mp3",
+            "b01/listeninggame/sounds/snd_sentence_05.mp3"
+        ]
+    },
+    "info": {
+        "questions": [
+            {
+                "sentence": "Twinkle, _, little star,",
+                "sound": "b01/listeninggame/sounds/snd_sentence_01.mp3",
+                "answer": "twinkle",
+                "examples": [
+                    "twinkle",
+                    "high",
+                    "above"
+                ]
+            },
+            {
+                "sentence": "how I wonder _ you are!",
+                "sound": "b01/listeninggame/sounds/snd_sentence_02.mp3",
+                "answer": "what",
+                "examples": [
+                    "what",
+                    "how",
+                    "where"
+                ]
+            },
+            {
+                "sentence": "Up above the _ so high,",
+                "sound": "b01/listeninggame/sounds/snd_sentence_03.mp3",
+                "answer": "world",
+                "examples": [
+                    "world",
+                    "star",
+                    "diamond"
+                ]
+            },
+            {
+                "sentence": "like a diamond in the _.",
+                "sound": "b01/listeninggame/sounds/snd_sentence_04.mp3",
+                "answer": "sky",
+                "examples": [
+                    "sky",
+                    "little",
+                    "world"
+                ]
+            },
+            {
+                "sentence": "Twinkle, twinkle, little _,",
+                "sound": "b01/listeninggame/sounds/snd_sentence_05.mp3",
+                "answer": "star",
+                "examples": [
+                    "star",
+                    "world",
+                    "sky"
+                ]
+            }
+        ]
+    }
+}

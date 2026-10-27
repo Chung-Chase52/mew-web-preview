@@ -1,0 +1,11 @@
+{
+    "resources":{
+        "files":[
+            "main/images/quit/main_popup_quit_bg.png",
+            "main/images/quit/main_popup_quit_btn_no_down.png",
+            "main/images/quit/main_popup_quit_btn_no_normal.png",
+            "main/images/quit/main_popup_quit_btn_yes_down.png",
+            "main/images/quit/main_popup_quit_btn_yes_normal.png"
+        ]
+    }
+}

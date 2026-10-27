@@ -1,0 +1,27 @@
+
+common_loading.png
+size: 2033,736
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+squ
+  rotate: false
+  xy: 1704, 407
+  size: 327, 327
+  orig: 359, 359
+  offset: 17, 18
+  index: -1
+wave01
+  rotate: false
+  xy: 2, 369
+  size: 1700, 365
+  orig: 1765, 390
+  offset: 33, 10
+  index: -1
+wave02
+  rotate: false
+  xy: 2, 2
+  size: 1700, 365
+  orig: 1765, 390
+  offset: 33, 10
+  index: -1

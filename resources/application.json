@@ -1,0 +1,170 @@
+{
+    "resources":{
+        "json":[
+        ],
+        "spine":[
+            "common/spine/common_loading.json",
+            "common/spine/common_intro.json"
+        ],
+        "files":[
+            "common/images/common_loading_bg.png",
+            "splash/sounds/intro_effect.mp3"
+        ]
+    },
+    "info":{
+        "booklist":[
+            {
+                "title": "Twinkle Twinkle Little Star",
+                "icon": {
+                    "down": "main_title_btn_01.png",
+                    "normal": "main_title_btn_01.png" 
+                },
+                "activities":[
+                    "Song", "SingAlong", "PlayThePiano", "WordsToKnow", "WordsTracing", "WordsPlay", "WordsGame", "ListeningGame", "MyOwnStage", "Pigment"
+                ]
+            },
+            {
+                "title": "Little Jack Horner",
+                "icon": {
+                    "down": "main_title_btn_02.png",
+                    "normal": "main_title_btn_02.png"
+                },
+                "activities":[
+                    "Song", "SingAlong", "PlayThePiano", "WordsToKnow", "WordsTracing", "WordsPlay", "WordsGame", "ListeningGame", "MyOwnStage", "Pigment"
+                ]
+            },
+            {
+                "title": "Hickory Dickory Dock",
+                "icon": {
+                    "down": "main_title_btn_03.png",
+                    "normal": "main_title_btn_03.png"
+                },
+                "activities":[
+                    "Song", "SingAlong", "PlayThePiano", "WordsToKnow", "WordsTracing", "WordsPlay", "WordsGame", "ListeningGame", "MyOwnStage", "Pigment"
+                ]
+            },
+            {
+                "title": "Hey! Diddle, Diddle",
+                "icon": {
+                    "down": "main_title_btn_04.png",
+                    "normal": "main_title_btn_04.png"
+                },
+                "activities":[
+                    "Song", "SingAlong", "PlayThePiano", "WordsToKnow", "WordsTracing", "WordsPlay", "WordsGame", "ListeningGame", "MyOwnStage", "Pigment"
+                ]
+            },
+            {
+                "title": "Jingle Bells",
+                "icon": {
+                    "down": "main_title_btn_05.png",
+                    "normal": "main_title_btn_05.png"
+                },
+                "activities":[
+                    "Song", "SingAlong", "PlayThePiano", "WordsToKnow", "WordsTracing", "WordsPlay", "WordsGame", "ListeningGame", "MyOwnStage", "Pigment"
+                ]
+            }
+        ],
+        "activityTypes": {
+            "Song": {
+                "src":"song/scene_info.json",
+                "thumb":{
+                    "down": "main_menu_btn_01_down.png",
+                    "normal": "main_menu_btn_01_normal.png"
+                },
+                "titleSound":"main/sounds/snd_activity_title_song.mp3",
+                "guide":"",
+                "guideSound":""
+            },
+            "SingAlong": {
+                "src":"singalong/scene_info.json",
+                "thumb":{
+                    "down": "main_menu_btn_02_down.png",
+                    "normal": "main_menu_btn_02_normal.png"
+                },
+                "titleSound":"main/sounds/snd_activity_title_singalong.mp3",
+                "guide":"",
+                "guideSound":""
+            },
+            "PlayThePiano": {
+                "src":"playthepiano/scene_info.json",
+                "thumb":{
+                    "down": "main_menu_btn_03_down.png",
+                    "normal": "main_menu_btn_03_normal.png"
+                },
+                "titleSound":"main/sounds/snd_activity_title_playthepiano.mp3",
+                "guide":"Let's play the piano\nto the accompaniment.",
+                "guideSound":"playthepiano/sounds/snd_ready.mp3"
+            },
+            "WordsToKnow": {
+                "src":"wordstoknow/scene_info.json",
+                "thumb":{
+                    "down": "main_menu_btn_04_down.png",
+                    "normal": "main_menu_btn_04_normal.png"
+                },
+                "titleSound":"main/sounds/snd_activity_title_wordstoknow.mp3",
+                "guide":"Let's learn the words\nin the lyrics.",
+                "guideSound":"wordstoknow/sounds/snd_ready.mp3"
+            },
+            "WordsTracing": {
+                "src":"wordstracing/scene_info.json",
+                "thumb":{
+                    "down": "main_menu_btn_05_down.png",
+                    "normal": "main_menu_btn_05_normal.png"
+                },
+                "titleSound":"main/sounds/snd_activity_title_wordstracing.mp3",
+                "guide":"Let's look at the picture\nand trace the word.",
+                "guideSound":"wordstracing/sounds/snd_ready.mp3"
+            },
+            "WordsPlay": {
+                "src":"wordsplay/scene_info.json",
+                "thumb":{
+                    "down": "main_menu_btn_06_down.png",
+                    "normal": "main_menu_btn_06_normal.png"
+                },
+                "titleSound":"main/sounds/snd_activity_title_wordsplay.mp3",
+                "guide":"Let's choose the correct picture\nby the meaning.",
+                "guideSound":"wordsplay/sounds/snd_ready.mp3"
+            },
+            "WordsGame": {
+                "src":"wordsgame/scene_info.json",
+                "thumb":{
+                    "down": "main_menu_btn_07_down.png",
+                    "normal": "main_menu_btn_07_normal.png"
+                },
+                "titleSound":"main/sounds/snd_activity_title_wordsgame.mp3",
+                "guide":"Let's complete the word\nusing the letter from the ghost.",
+                "guideSound":"wordsgame/sounds/snd_ready.mp3"
+            },
+            "ListeningGame": {
+                "src":"listeninggame/scene_info.json",
+                "thumb":{
+                    "down": "main_menu_btn_08_down.png",
+                    "normal": "main_menu_btn_08_normal.png"
+                },
+                "titleSound":"main/sounds/snd_activity_title_listeninggame.mp3",
+                "guide":"Let's listen and choose\nthe correct word.",
+                "guideSound":"listeninggame/sounds/snd_ready.mp3"
+            },
+            "MyOwnStage": {
+                "src":"myownstage/scene_info.json",
+                "thumb":{
+                    "down": "main_menu_btn_09_down.png",
+                    "normal": "main_menu_btn_09_normal.png"
+                },
+                "titleSound":"main/sounds/snd_activity_title_myownstage.mp3",
+                "guide":"Let's decorate the picture\nusing stickers.",
+                "guideSound":"myownstage/sounds/snd_ready.mp3"
+            },
+            "Pigment": {
+                "src":"pigment/scene_info.json",
+                 "thumb":{
+                    "down": "main_menu_btn_10_down.png",
+                    "normal": "main_menu_btn_10_normal.png"
+                },
+                "titleSound":"main/sounds/snd_activity_title_pigment.mp3",
+                "guide":"Let's color and complete\nthe picture.",
+                "guideSound":"pigment/sounds/snd_ready.mp3"
+            }
+        }
+    }
+}

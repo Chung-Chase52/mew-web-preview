@@ -1,0 +1,32 @@
+{
+    "resources":{
+        "files":[
+            "b03/myownstage/images/bg.png"
+            ,"b03/myownstage/images/ball.png"
+            ,"b03/myownstage/images/boy.png"
+            ,"b03/myownstage/images/chair.png"
+            ,"b03/myownstage/images/clock.png"
+            ,"b03/myownstage/images/dresser.png"
+            ,"b03/myownstage/images/frame.png"
+            ,"b03/myownstage/images/lighting.png"
+            ,"b03/myownstage/images/mouse.png"
+            ,"b03/myownstage/images/telescope.png"
+            ,"b03/myownstage/images/toy_car.png"            
+        ]
+    },
+    "info":{
+        "bg":"bg"
+        ,"thumblist":[
+            "ball"
+            ,"boy"
+            ,"chair"
+            ,"clock"
+            ,"dresser"
+            ,"frame"
+            ,"lighting"
+            ,"mouse"
+            ,"telescope"
+            ,"toy_car"
+        ]
+    }
+}

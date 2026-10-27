@@ -1,0 +1,30 @@
+{
+    "resources":{
+        "files":[
+            "b04/myownstage/images/bg.png"
+            ,"b04/myownstage/images/cow.png"
+            ,"b04/myownstage/images/dish.png"
+            ,"b04/myownstage/images/doghouse.png"
+            ,"b04/myownstage/images/kitten.png"
+            ,"b04/myownstage/images/moon.png"
+            ,"b04/myownstage/images/puppy.png"
+            ,"b04/myownstage/images/spoon.png"
+            ,"b04/myownstage/images/trunk.png"
+            ,"b04/myownstage/images/violin.png"
+        ]
+    },
+    "info":{
+        "bg":"bg"
+        ,"thumblist":[
+            "cow"
+            ,"dish"
+            ,"doghouse"
+            ,"kitten"
+            ,"moon"
+            ,"puppy"
+            ,"spoon"
+            ,"trunk"
+            ,"violin"
+        ]
+    }
+}

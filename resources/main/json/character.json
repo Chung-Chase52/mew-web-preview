@@ -1,0 +1,21 @@
+{
+    "resources":{
+        "files":[
+            "main/images/character/cha_room_bg.png",
+            "main/images/character/btn_close_down.png",
+            "main/images/character/btn_close_normal.png",
+            "main/images/character/btn_giggle_down.png",
+            "main/images/character/btn_giggle_normal.png",
+            "main/images/character/btn_hi_down.png",
+            "main/images/character/btn_hi_normal.png",
+            "main/images/character/btn_wink_down.png",
+            "main/images/character/btn_wink_normal.png",
+            "main/images/character/btn_wow_down.png",
+            "main/images/character/btn_wow_normal.png",
+            "main/sounds/character/snd_cha_room_wow.mp3",
+            "main/sounds/character/snd_cha_room_hi.mp3",
+            "main/sounds/character/snd_cha_room_wink.mp3",
+            "main/sounds/character/snd_cha_room_giggle.mp3"
+        ]
+    }
+}

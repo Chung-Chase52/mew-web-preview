@@ -1,0 +1,15 @@
+{
+    "name":"Splash",
+    "resources":{
+        "json":[
+            "common/json/common.json",
+            "main/json/main.json",
+            "main/json/character.json",
+            "main/json/gallery.json",
+            "main/json/quit.json"
+        ]
+    },
+    "info":{
+        
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name":"PlayThePiano",
+    "resources":{
+        "json":[
+			"playthepiano/json/image.json"
+			,"playthepiano/json/key_sound.json"
+        ],
+        "pack":[
+        ],
+        "spine":[
+            "playthepiano/spine/piano_bob.json"
+            ,"playthepiano/spine/piano_pho.json"
+            ,"playthepiano/spine/effect.json"
+			,"wordstoknow/spine/wordstoknow_particle.json"
+            
+        ],
+        "files":[
+            "playthepiano/sounds/snd_ready.mp3"
+		]
+    },
+    "info":{}
+}

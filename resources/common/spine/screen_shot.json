@@ -1,0 +1,45 @@
+{
+"skeleton": {
+	"hash": "Bpk1DzuzgbUqfDMOY2Hu6zXsEFA",
+	"spine": "3.8.76",
+	"x": -82,
+	"y": -73,
+	"width": 165,
+	"height": 147,
+	"images": "//192.168.5.134/20191022_prj_UC/resources/myownstage/images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "g_camera_click" }
+],
+"slots": [
+	{ "name": "camera_click_1", "bone": "g_camera_click", "attachment": "camera_normal" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"camera_click_1": {
+				"camera_click_1": { "x": 0.28, "y": -2.36, "rotation": -0.32, "width": 165, "height": 147 },
+				"camera_click_2": { "x": 0.28, "y": -2.36, "rotation": -0.32, "width": 165, "height": 147 },
+				"camera_click_3": { "x": 0.28, "y": -2.36, "rotation": -0.32, "width": 165, "height": 147 },
+				"camera_normal": { "x": 0.5, "y": 0.5, "width": 165, "height": 147 }
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {},
+	"shot": {
+		"slots": {
+			"camera_click_1": {
+				"attachment": [
+					{ "name": "camera_click_1" },
+					{ "time": 0.1, "name": "camera_click_2" },
+					{ "time": 0.2, "name": "camera_click_3" }
+				]
+			}
+		}
+	}
+}
+}

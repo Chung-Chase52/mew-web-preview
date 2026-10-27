@@ -1,0 +1,153 @@
+
+common_otter.png
+size: 281,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 236, 66
+  size: 42, 25
+  orig: 68, 47
+  offset: 15, 9
+  index: -1
+arm_r
+  rotate: true
+  xy: 105, 5
+  size: 18, 26
+  orig: 45, 46
+  offset: 15, 11
+  index: -1
+body
+  rotate: false
+  xy: 2, 25
+  size: 115, 83
+  orig: 152, 100
+  offset: 25, 5
+  index: -1
+ch_l
+  rotate: true
+  xy: 263, 96
+  size: 12, 11
+  orig: 32, 28
+  offset: 11, 9
+  index: -1
+ch_r
+  rotate: true
+  xy: 263, 82
+  size: 12, 11
+  orig: 33, 31
+  offset: 12, 8
+  index: -1
+ear_l
+  rotate: false
+  xy: 269, 56
+  size: 10, 10
+  orig: 31, 29
+  offset: 9, 10
+  index: -1
+ear_r
+  rotate: false
+  xy: 263, 68
+  size: 11, 12
+  orig: 29, 23
+  offset: 11, 6
+  index: -1
+eye_l
+  rotate: false
+  xy: 119, 28
+  size: 5, 6
+  orig: 21, 20
+  offset: 8, 5
+  index: -1
+eye_r
+  rotate: false
+  xy: 126, 28
+  size: 4, 6
+  orig: 27, 21
+  offset: 12, 8
+  index: -1
+leg_l
+  rotate: true
+  xy: 157, 5
+  size: 30, 29
+  orig: 62, 50
+  offset: 19, 10
+  index: -1
+leg_r
+  rotate: true
+  xy: 80, 4
+  size: 19, 23
+  orig: 39, 39
+  offset: 9, 9
+  index: -1
+mo
+  rotate: true
+  xy: 218, 40
+  size: 17, 10
+  orig: 48, 38
+  offset: 15, 14
+  index: -1
+no
+  rotate: true
+  xy: 259, 8
+  size: 16, 13
+  orig: 31, 31
+  offset: 7, 11
+  index: -1
+tail
+  rotate: false
+  xy: 230, 9
+  size: 27, 48
+  orig: 56, 68
+  offset: 18, 9
+  index: -1
+water
+  rotate: false
+  xy: 259, 26
+  size: 8, 38
+  orig: 54, 62
+  offset: 26, 10
+  index: -1
+water02
+  rotate: true
+  xy: 154, 37
+  size: 71, 62
+  orig: 114, 91
+  offset: 19, 18
+  index: -1
+water03
+  rotate: true
+  xy: 119, 36
+  size: 72, 33
+  orig: 106, 61
+  offset: 18, 13
+  index: -1
+water04
+  rotate: true
+  xy: 218, 59
+  size: 49, 16
+  orig: 98, 41
+  offset: 27, 11
+  index: -1
+water05
+  rotate: true
+  xy: 133, 2
+  size: 32, 22
+  orig: 92, 48
+  offset: 30, 10
+  index: -1
+water06
+  rotate: true
+  xy: 188, 6
+  size: 29, 39
+  orig: 97, 80
+  offset: 41, 24
+  index: -1
+water07
+  rotate: false
+  xy: 2, 2
+  size: 76, 21
+  orig: 117, 61
+  offset: 21, 22
+  index: -1

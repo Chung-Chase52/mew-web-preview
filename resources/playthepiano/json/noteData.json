@@ -1,0 +1,73 @@
+{
+	"bpm":120
+	,"playdata":
+	[
+		{"note":["f1","g1"],"length":0.5}
+		,{"note":["f1","g1"],"length":0.5}
+		,{"note":["f1","g1"],"length":0.5}
+		,{"note":["f1","g1"],"length":0.5}
+		,{"note":["f1","g1"],"length":0.5}
+		,{"note":["f1","g1"],"length":0.5}
+		
+		,{"note":["e1","g1"],"length":0.5}
+		,{"note":["e1","g1"],"length":0.5}
+		,{"note":["e1","g1"],"length":0.5}
+		,{"note":["e1","g1"],"length":0.5}
+		,{"note":["e1","g1"],"length":0.5}
+		,{"note":["e1","g1"],"length":0.5}
+		
+		,{"note":["d1","b1"],"length":0.5}
+		,{"note":["d1","b1"],"length":0.5}
+		,{"note":["d1","b1"],"length":0.5}
+		,{"note":["d1","b1"],"length":0.5}
+		,{"note":["d1","b1"],"length":0.5}
+		,{"note":["d1","b1"],"length":0.5}
+
+		,{"note":["c1","c2"],"length":0.5}
+		,{"note":["c1","c2"],"length":0.5}
+		,{"note":["c1","c2"],"length":0.5}
+		,{"note":["c1","c2"],"length":0.5}
+		,{"note":["d1","b1"],"length":0.5}
+		,{"note":["e1","a1"],"length":0.5}
+
+
+		,{"note":["f1","g1"],"length":0.5}
+		,{"note":["f1","g1"],"length":0.5}
+		,{"note":["f1","g1"],"length":0.5}
+		,{"note":["f1","g1"],"length":0.5}
+		,{"note":["f1","g1"],"length":0.5}
+		,{"note":["f1","g1"],"length":0.5}
+		
+		,{"note":["e1","g1"],"length":0.5}
+		,{"note":["e1","g1"],"length":0.5}
+		,{"note":["e1","g1"],"length":0.5}
+		,{"note":["e1","g1"],"length":0.5}
+		,{"note":["e1","g1"],"length":0.5}
+		,{"note":["e1","g1"],"length":0.5}
+		
+		,{"note":["d1","b1"],"length":0.5}
+		,{"note":["d1","b1"],"length":0.5}
+		,{"note":["d1","b1"],"length":0.5}
+		,{"note":["d1","b1"],"length":0.5}
+		,{"note":["d1","b1"],"length":0.5}
+		,{"note":["d1","b1"],"length":0.5}
+
+		,{"note":["c1","c2"],"length":0.5}
+		,{"note":["g1","e1"],"length":0.5}
+		,{"note":["e1","f1"],"length":0.5}
+		,{"note":["c1","e1"],"length":1}
+		
+		,{"note":["c2","e2"],"length":0.5}
+		,{"note":["d2","b1"],"length":1}
+		,{"note":["c2","a1"],"length":0.5}
+		,{"note":["g1","b1"],"length":1}
+		
+		,{"note":["c2","a1"],"length":0.5}
+		,{"note":["g1","b1"],"length":1}
+		,{"note":["g1","b1"],"length":1}
+		,{"note":["g1","b1"],"length":0.5}
+		
+		
+		
+	]
+}

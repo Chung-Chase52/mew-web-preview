@@ -1,0 +1,31 @@
+{
+    "resources":{
+        "files":[
+            "b01/myownstage/images/bg.png"
+            ,"b01/myownstage/images/boy.png"
+            ,"b01/myownstage/images/car.png"
+            ,"b01/myownstage/images/cloude.png"
+            ,"b01/myownstage/images/girl.png"
+            ,"b01/myownstage/images/grass.png"
+            ,"b01/myownstage/images/moon.png"
+            ,"b01/myownstage/images/owl.png"
+            ,"b01/myownstage/images/star.png"
+            ,"b01/myownstage/images/tree_1.png"
+            ,"b01/myownstage/images/tree.png"
+        ]
+    },
+    "info":{
+        "bg":"bg"
+        ,"thumblist":[
+            "boy"
+            ,"car"
+            ,"girl"
+            ,"grass"
+            ,"moon"
+            ,"owl"
+            ,"star"
+            ,"tree_1"
+            ,"tree"
+        ]
+    }
+}

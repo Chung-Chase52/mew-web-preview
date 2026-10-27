@@ -1,0 +1,33 @@
+{
+    "name":"ListeningGame",
+    "resources":{
+        "json":[
+        ],
+        "pack":[
+        ],
+        "spine":[
+            "listeninggame/spine/bob.json",
+            "listeninggame/spine/common_meo.json",
+            "listeninggame/spine/common_otter.json",
+            "listeninggame/spine/common_turtle.json",
+            "listeninggame/spine/common_word.json",
+            "listeninggame/spine/pho.json"
+
+        ],
+        "files":[
+            "listeninggame/images/temp.png",
+            "listeninggame/images/img_title.png",
+            "listeninggame/images/img_bg_river.png",
+            "listeninggame/images/img_bg.png",
+            "listeninggame/images/img_blank.png",
+            "listeninggame/images/img_blank_q.png",
+            "listeninggame/images/img_qbox.png",
+            "listeninggame/sounds/snd_bgm.mp3",
+            "listeninggame/sounds/snd_ready.mp3",
+            "listeninggame/sounds/snd_jump.mp3",
+            "listeninggame/sounds/snd_water.mp3"
+        ]
+    },
+    "info":{
+    }
+}

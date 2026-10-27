@@ -1,0 +1,72 @@
+{
+    "resources":{
+		"files":[],
+        "json":[],
+        "spine":[]
+    },
+    "info":{
+		"noteData":
+		{
+			"bpm":120
+			,"playdata":
+			[
+				{"note":["c1"],"length":1, "comment":"도도솔솔 라라솔  파파미미 레레도" }
+				,{"note":["c1"],"length":1}
+				,{"note":["g1"],"length":1}
+				,{"note":["g1"],"length":1}
+				
+				,{"note":["a1"],"length":1}
+				,{"note":["a1"],"length":1}
+				,{"note":["g1"],"length":2}
+				
+				,{"note":["f1"],"length":1}
+				,{"note":["f1"],"length":1}
+				,{"note":["e1"],"length":1}
+				,{"note":["e1"],"length":1}
+				
+				,{"note":["d1"],"length":1}
+				,{"note":["d1"],"length":1}
+				,{"note":["c1"],"length":2}
+				
+				
+				,{"note":["g1"],"length":1, "comment":"솔솔파파 미미레  솔솔파파 미미레"  }
+				,{"note":["g1"],"length":1}
+				,{"note":["f1"],"length":1}
+				,{"note":["f1"],"length":1}
+				
+				,{"note":["e1"],"length":1}
+				,{"note":["e1"],"length":1}
+				,{"note":["d1"],"length":2}
+				
+				,{"note":["g1"],"length":1}
+				,{"note":["g1"],"length":1}
+				,{"note":["f1"],"length":1}
+				,{"note":["f1"],"length":1}
+				
+				,{"note":["e1"],"length":1}
+				,{"note":["e1"],"length":1}
+				,{"note":["d1"],"length":2}
+				
+				
+				,{"note":["c1"],"length":1, "comment":"도도솔솔 라라솔  파파미미 레레도"  }
+				,{"note":["c1"],"length":1}
+				,{"note":["g1"],"length":1}
+				,{"note":["g1"],"length":1}
+				
+				,{"note":["a1"],"length":1}
+				,{"note":["a1"],"length":1}
+				,{"note":["g1"],"length":2}
+				
+				,{"note":["f1"],"length":1}
+				,{"note":["f1"],"length":1}
+				,{"note":["e1"],"length":1}
+				,{"note":["e1"],"length":1}
+				
+				,{"note":["d1"],"length":1}
+				,{"note":["d1"],"length":1}
+				,{"note":["c1"],"length":2}
+			]
+		}
+    
+    }
+}

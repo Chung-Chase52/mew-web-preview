@@ -1,0 +1,21 @@
+{
+    "name":"Main",
+    "resources":{
+        "json":[
+            "main/json/main.json",
+            "main/json/character.json",
+            "main/json/gallery.json",
+            "main/json/quit.json"
+        ],
+        "spine":[
+        ],
+        "pack":[
+
+        ],
+        "files":[
+        ]
+    },
+    "info":{
+        
+    }
+}

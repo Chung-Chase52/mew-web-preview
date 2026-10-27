@@ -1,0 +1,14 @@
+{
+    "resources":{
+
+    },
+    "info":{
+        "questions":[
+            "corner",
+            "pie",
+            "thumb",
+            "plum",
+            "boy"
+        ]
+    }
+}

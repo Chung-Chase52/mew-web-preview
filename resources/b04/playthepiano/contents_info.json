@@ -1,0 +1,55 @@
+{
+    "resources":{
+
+    },
+    "info":{
+        "noteData":{
+			"bpm":120
+			,"playdata":[
+                {"note":["e2"],"length":1, "comment":"1번째줄--> 미미미 미파솔" },
+                {"note":["e2"],"length":1},
+                {"note":["e2"],"length":1},
+                {"note":["e2"],"length":1},
+                {"note":["f2"],"length":1},
+                {"note":["g2"],"length":1},
+    
+                {"note":["d2"],"length":1, "comment":"레레레 레도레" },
+                {"note":["d2"],"length":1},
+                {"note":["d2"],"length":1},
+                {"note":["d2"],"length":1},
+                {"note":["c2"],"length":1},
+                {"note":["f2"],"length":1},
+    
+                {"note":["e2"],"length":2, "comment":"2번째줄--> 미 미 미파솔" },
+                {"note":["e2"],"length":1},
+                {"note":["e2"],"length":1},
+                {"note":["f2"],"length":1},
+                {"note":["g2"],"length":1},
+    
+                {"note":["d2"],"length":5, "comment":"레   미" },
+                {"note":["e2"],"length":1 },
+                
+                {"note":["f2"],"length":1, "comment":"3번째줄--> 파파파 파솔라" },
+                {"note":["f2"],"length":1},
+                {"note":["f2"],"length":1},
+                {"note":["f2"],"length":1},
+                {"note":["g2"],"length":1},
+                {"note":["a2"],"length":1},
+                
+                {"note":["g2"],"length":2, "comment": "솔 미 도레미" },
+                {"note":["e2"],"length":1 },
+                {"note":["c2"],"length":1 },
+                {"note":["d2"],"length":1 },
+                {"note":["e2"],"length":1 },
+
+                {"note":["g1"],"length":1, "comment":"4번째줄--> 솔솔솔 솔라시 도   " },
+                {"note":["g1"],"length":1},
+                {"note":["g1"],"length":1},
+                {"note":["g1"],"length":1},
+                {"note":["a1"],"length":1},
+                {"note":["b1"],"length":1},
+                {"note":["c2"],"length":6}
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "resources":{
+        "files":[
+            "b02/myownstage/images/bg.png"
+            ,"b02/myownstage/images/bear_doll.png"
+            ,"b02/myownstage/images/blue_socks.png"
+            ,"b02/myownstage/images/box_1.png"
+            ,"b02/myownstage/images/box.png"
+            ,"b02/myownstage/images/boy.png"
+            ,"b02/myownstage/images/corolla.png"
+            ,"b02/myownstage/images/frame.png"
+            ,"b02/myownstage/images/lighting1.png"
+            ,"b02/myownstage/images/red_socks.png"
+            ,"b02/myownstage/images/snowman.png"
+            ,"b02/myownstage/images/tree.png"
+        ]
+    },
+    "info":{
+        "bg":"bg"
+        ,"thumblist":[
+            "bear_doll"
+            ,"blue_socks"
+            ,"box_1"
+            ,"box"
+            ,"boy"
+            ,"corolla"
+            ,"frame"
+            ,"lighting1"
+            ,"red_socks"
+            ,"snowman"
+            ,"tree"
+        ]
+    }
+}

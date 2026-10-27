@@ -1,0 +1,20 @@
+{
+    "name":"MyOwnStage",
+    "resources":{
+        "json":[
+            "myownstage/json/image.json"
+        ],
+        "pack":[
+        ],
+        "spine":[
+        ],
+        "files":[
+            "myownstage/sounds/snd_bgm.mp3",
+            "myownstage/sounds/snd_ready.mp3",
+            "myownstage/sounds/snd_sticker_click.mp3",
+            "myownstage/sounds/snd_sticker_out.mp3"
+        ]
+    },
+    "info":{
+    }
+}

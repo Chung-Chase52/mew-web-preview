@@ -1,0 +1,41 @@
+
+common_turtle.png
+size: 655,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: true
+  xy: 464, 28
+  size: 114, 68
+  orig: 162, 110
+  offset: 23, 21
+  index: -1
+body
+  rotate: true
+  xy: 612, 30
+  size: 112, 41
+  orig: 143, 80
+  offset: 14, 18
+  index: -1
+bubble
+  rotate: false
+  xy: 534, 66
+  size: 76, 76
+  orig: 104, 105
+  offset: 15, 17
+  index: -1
+haed
+  rotate: false
+  xy: 534, 5
+  size: 68, 59
+  orig: 83, 80
+  offset: 9, 12
+  index: -1
+wave01
+  rotate: false
+  xy: 2, 2
+  size: 460, 140
+  orig: 856, 215
+  offset: 196, 30
+  index: -1

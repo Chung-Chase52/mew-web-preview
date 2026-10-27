@@ -1,0 +1,17 @@
+{
+    "resources":{
+		"files":[
+			"wordsgame/images/bg.png"
+			,"wordsgame/images/word_box_empty.png"
+			,"wordsgame/images/word_box.png"
+			
+			,"wordsgame/images/line.png"
+			,"wordsgame/images/bomb.png"
+			,"wordsgame/images/bomb_1.png"
+			,"wordsgame/images/bomb_2.png"
+			,"wordsgame/images/meu_leg.png"
+			,"wordsgame/images/wordsgame_text.png"
+		]
+	
+	}
+}

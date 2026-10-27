@@ -1,0 +1,17 @@
+{
+    "name":"SingAlong",
+    "resources":{
+        "json":[
+			"singalong/json/image.json"
+        ],
+        "pack":[
+        ],
+        "spine":[
+        ],
+        "files":[
+            "singalong/sounds/snd_guide.mp3"
+        ]
+    },
+    "info":{
+    }
+}

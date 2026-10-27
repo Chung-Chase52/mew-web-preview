@@ -1,0 +1,76 @@
+
+common_word.png
+size: 630,1051
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p_br_l
+  rotate: true
+  xy: 189, 348
+  size: 207, 185
+  orig: 407, 217
+  offset: 14, 16
+  index: -1
+p_br_r
+  rotate: true
+  xy: 2, 345
+  size: 210, 185
+  orig: 407, 217
+  offset: 180, 16
+  index: -1
+p_defalt
+  rotate: true
+  xy: 443, 673
+  size: 376, 185
+  orig: 407, 217
+  offset: 14, 16
+  index: -1
+p_over
+  rotate: true
+  xy: 383, 295
+  size: 376, 185
+  orig: 407, 217
+  offset: 14, 16
+  index: -1
+w01
+  rotate: true
+  xy: 464, 2
+  size: 291, 148
+  orig: 600, 400
+  offset: 153, 64
+  index: -1
+w02
+  rotate: false
+  xy: 2, 557
+  size: 379, 214
+  orig: 600, 400
+  offset: 109, 64
+  index: -1
+w03
+  rotate: false
+  xy: 2, 773
+  size: 439, 276
+  orig: 600, 400
+  offset: 79, 64
+  index: -1
+w04
+  rotate: false
+  xy: 2, 151
+  size: 460, 142
+  orig: 600, 400
+  offset: 68, 64
+  index: -1
+w05
+  rotate: false
+  xy: 2, 151
+  size: 460, 142
+  orig: 600, 400
+  offset: 68, 64
+  index: -1
+wave01
+  rotate: false
+  xy: 2, 9
+  size: 460, 140
+  orig: 856, 215
+  offset: 196, 30
+  index: -1

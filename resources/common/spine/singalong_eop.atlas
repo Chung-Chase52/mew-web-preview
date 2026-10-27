@@ -1,0 +1,125 @@
+
+singalong_eop.png
+size: 1474,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 657, 527
+  size: 518, 255
+  orig: 576, 293
+  offset: 25, 27
+  index: -1
+body
+  rotate: true
+  xy: 657, 188
+  size: 337, 423
+  orig: 369, 487
+  offset: 13, 42
+  index: -1
+cir02
+  rotate: false
+  xy: 2, 129
+  size: 653, 653
+  orig: 816, 816
+  offset: 87, 88
+  index: -1
+eye_a
+  rotate: false
+  xy: 250, 26
+  size: 184, 101
+  orig: 217, 142
+  offset: 19, 18
+  index: -1
+hair
+  rotate: false
+  xy: 1386, 279
+  size: 77, 78
+  orig: 124, 121
+  offset: 26, 27
+  index: -1
+hs_l
+  rotate: true
+  xy: 436, 23
+  size: 104, 179
+  orig: 129, 198
+  offset: 19, 15
+  index: -1
+hs_r
+  rotate: true
+  xy: 1096, 5
+  size: 102, 171
+  orig: 138, 210
+  offset: 23, 19
+  index: -1
+leg_l
+  rotate: true
+  xy: 1343, 20
+  size: 78, 65
+  orig: 101, 84
+  offset: 11, 2
+  index: -1
+leg_r
+  rotate: true
+  xy: 1269, 2
+  size: 105, 72
+  orig: 130, 94
+  offset: 16, 11
+  index: -1
+light_01
+  rotate: false
+  xy: 1082, 260
+  size: 302, 263
+  orig: 431, 381
+  offset: 65, 52
+  index: -1
+light_02
+  rotate: true
+  xy: 1177, 525
+  size: 257, 295
+  orig: 371, 363
+  offset: 45, 32
+  index: -1
+lip_c
+  rotate: true
+  xy: 1400, 139
+  size: 138, 51
+  orig: 145, 61
+  offset: 3, 4
+  index: -1
+mo_b
+  rotate: true
+  xy: 1367, 100
+  size: 158, 31
+  orig: 176, 72
+  offset: 8, 21
+  index: -1
+mo_t
+  rotate: true
+  xy: 1386, 359
+  size: 164, 65
+  orig: 201, 107
+  offset: 23, 23
+  index: -1
+skate
+  rotate: false
+  xy: 657, 38
+  size: 437, 148
+  orig: 487, 194
+  offset: 26, 28
+  index: -1
+wing_l
+  rotate: false
+  xy: 1096, 109
+  size: 269, 149
+  orig: 285, 180
+  offset: 0, 16
+  index: -1
+wing_r
+  rotate: true
+  xy: 2, 8
+  size: 119, 246
+  orig: 161, 281
+  offset: 28, 29
+  index: -1

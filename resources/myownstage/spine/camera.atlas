@@ -1,0 +1,27 @@
+
+camera.png
+size: 491,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+camera_click_1
+  rotate: false
+  xy: 165, 2
+  size: 161, 143
+  orig: 165, 147
+  offset: 2, 2
+  index: -1
+camera_click_2
+  rotate: false
+  xy: 328, 2
+  size: 161, 143
+  orig: 165, 147
+  offset: 2, 2
+  index: -1
+camera_click_3
+  rotate: false
+  xy: 2, 2
+  size: 161, 143
+  orig: 165, 147
+  offset: 2, 2
+  index: -1

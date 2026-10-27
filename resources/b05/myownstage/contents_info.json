@@ -1,0 +1,35 @@
+{
+    "resources":{
+        "files":[
+            "b05/myownstage/images/bg.png"
+            ,"b05/myownstage/images/cloude.png"
+            ,"b05/myownstage/images/green_elf.png"
+            ,"b05/myownstage/images/horse.png"
+            ,"b05/myownstage/images/house.png"
+            ,"b05/myownstage/images/red_elf.png"
+            ,"b05/myownstage/images/santa.png"
+            ,"b05/myownstage/images/sled.png"
+            ,"b05/myownstage/images/snow.png"
+            ,"b05/myownstage/images/tree_1.png"
+            ,"b05/myownstage/images/tree_2.png"
+            ,"b05/myownstage/images/tree_3.png"
+            
+        ]
+    },
+    "info":{
+        "bg":"bg"
+        ,"thumblist":[
+            "cloude"
+            ,"green_elf"
+            ,"horse"
+            ,"house"
+            ,"red_elf"
+            ,"santa"
+            ,"sled"
+            ,"snow"
+            ,"tree_1"
+            ,"tree_2"
+            ,"tree_3"
+        ]
+    }
+}
