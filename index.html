@@ -15,12 +15,57 @@
                 position: fixed;
                 inset: 0;
                 z-index: 2000;
-                background: #000 url(./launch.png) center / contain no-repeat;
+                background: #000;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            #splash-image{
+                position: relative;
+                width: min( 100vw, 160vh );
+                aspect-ratio: 16 / 10;
+                background: url(./launch.png) center / contain no-repeat;
+            }
+            #splash-progress{
+                position: absolute;
+                left: 50%;
+                top: 68%;
+                width: 22%;
+                height: 0.5%;
+                min-height: 3px;
+                transform: translateX( -50% );
+                background: #e6e6e6;
+                border-radius: 999px;
+                overflow: hidden;
+            }
+            #splash-progress-bar{
+                width: 0;
+                height: 100%;
+                background: #1a56a6;
+                transition: width 0.3s ease-out;
             }
         </style>
     </head>
     <body>
-        <div id="splash"></div>
+        <div id="splash">
+            <div id="splash-image">
+                <div id="splash-progress"><div id="splash-progress-bar"></div></div>
+            </div>
+        </div>
+        <script>
+            // 스플래시 동안 받은 리소스 용량으로 진행률을 근사한다. 끝(100%)은 onHideSplash 에서 채운다.
+            (function(){
+                var bar = document.getElementById( "splash-progress-bar" );
+                var bytes = 0;
+                function update( list ){
+                    list.getEntries().forEach( function( e ){ bytes += e.decodedBodySize || e.transferSize || 0; } );
+                    bar.style.width = ( 95 * ( 1 - Math.exp( -bytes / 4000000 ) ) ) + "%";
+                }
+                if( window.PerformanceObserver ){
+                    new PerformanceObserver( update ).observe( { type: "resource", buffered: true } );
+                }
+            })();
+        </script>
         <div style="position:fixed;z-index:1000;width:100%;   height:100%;display:flex;align-items: center;justify-content: center;">
             <canvas id="stage"></canvas>
         </div>
@@ -98,7 +143,10 @@
             UCAndroidNative.onHideSplash = function(){
                 console.log( "UCAndroidNative onHideSplash")
                 // android.onHideSplash();
-                document.getElementById( "splash" ).style.display = "none";
+                document.getElementById( "splash-progress-bar" ).style.width = "100%";
+                setTimeout( function(){
+                    document.getElementById( "splash" ).style.display = "none";
+                }, 300 );
             }
 
             // 브라우저에는 네이티브 키보드/종료가 없으므로 호출만 받아 둔다.
