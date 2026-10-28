@@ -11,9 +11,16 @@
                 width: calc( 100vh * 1.6 ) !important;
                 height: 100%;
             }
+            #splash{
+                position: fixed;
+                inset: 0;
+                z-index: 2000;
+                background: #000 url(./launch.png) center / contain no-repeat;
+            }
         </style>
     </head>
     <body>
+        <div id="splash"></div>
         <div style="position:fixed;z-index:1000;width:100%;   height:100%;display:flex;align-items: center;justify-content: center;">
             <canvas id="stage"></canvas>
         </div>
@@ -91,6 +98,7 @@
             UCAndroidNative.onHideSplash = function(){
                 console.log( "UCAndroidNative onHideSplash")
                 // android.onHideSplash();
+                document.getElementById( "splash" ).style.display = "none";
             }
 
             // 브라우저에는 네이티브 키보드/종료가 없으므로 호출만 받아 둔다.

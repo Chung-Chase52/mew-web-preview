@@ -13541,6 +13541,14 @@
                             }
                             video_1.oncanplaythrough = null;
                         };
+                        // 영상 파일이 없거나 깨져도 로딩이 멈추지 않도록 로드된 것으로 처리한다.
+                        video_1.onerror = function () {
+                            console.log("[ResourceFileLoader] Video load failed:", path);
+                            video_1.onerror = null;
+                            if (video_1.oncanplaythrough) {
+                                video_1.oncanplaythrough();
+                            }
+                        };
                     }
                     else {
                         this_1._videoLoadCount++;
